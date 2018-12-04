@@ -2,7 +2,7 @@
   "name": "caching-data",
   "version": "1.0.0",
   "description": "A project to practice caching data in the browser.",
-  "author": "Shawn Rider <shawn@shawnrider.com>",
+  "author": "Tony Graf <tony.graf@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
